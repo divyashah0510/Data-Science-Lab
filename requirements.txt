@@ -8,3 +8,4 @@ scikit-fuzzy
 numpy
 pandas
 networkx
+streamlit

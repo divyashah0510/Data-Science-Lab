@@ -4,3 +4,7 @@ matplotlib
 seaborn
 catboost
 xgboost
+scikit-fuzzy
+numpy
+pandas
+networkx
